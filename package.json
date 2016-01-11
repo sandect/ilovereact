@@ -1,0 +1,22 @@
+{
+  "name": "ilovereact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sandect/ilovereact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "sandect",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandect/ilovereact/issues"
+  },
+  "homepage": "https://github.com/sandect/ilovereact#readme"
+}
