@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sandect/ilovereact/issues"
   },
-  "homepage": "https://github.com/sandect/ilovereact#readme"
+  "homepage": "https://github.com/sandect/ilovereact#readme",
+  "dependencies": {
+    "browser-sync": "^2.9.3"
+  }
 }
