@@ -597,6 +597,7 @@ a:hover {
 
 #slider-control {
   padding: 3px;
+  z-index: 10;
 }
 
 #slider-control a {
@@ -618,6 +619,14 @@ a:hover {
   background-image: url(../img/background.jpg);
   background-size: cover;
   background-position: center;
+}
+
+#intro-section img, #intro-section h1 {
+  z-index: 2;
+}
+
+#logo {
+  position: relative;
 }
 
 .overlay {
